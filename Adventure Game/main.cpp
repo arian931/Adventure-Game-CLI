@@ -4,11 +4,10 @@ using namespace std;
 
 /* -----------------------------------------
  Adventure Game Program
- Version: 1.0
  Date: October 2, 2018
  Author: Arian Taherzadeh
  School: Glebe Collegiate Institute, Ottawa
- Course: ISC 3U 03
+ Course: ISC3U
  Teacher: Mr. Giansante
  ---------------------------------------------*/
 
@@ -542,7 +541,7 @@ int main() {
     
     
     // Opening description
-    cout << "Welcome to Arian's World Map Adventure Game! \n\nYour objective is simple: Enter North Korea. \n\nYou begin your quest in Pakistan, where you will have access to the entire world, with the exception of the Americas, Greenland, and North Korea. In order to gain access to the Americas, you must locate the return plane ticket somewhere in Africa. You must then use that ticket to travel to the West, acquire the Diplomatic Passport needed to enter North Korea, and then return to Africa where you will continue your quest. Good luck!\n\nAlong the way you may encounter random objects in several countries; they are just there because they are required in the assignment :P\n\n";
+    cout << "Welcome to Arian's World Map Adventure Game! \n\nYour objective is simple: Enter North Korea. \n\nYou begin your quest in Pakistan, where you will have access to the entire world, with the exception of the Americas, Greenland, and North Korea. In order to gain access to the Americas, you must locate the return plane ticket somewhere in the continent of Africa. You must then use that ticket to travel to the Americas, acquire the Diplomatic Passport needed to enter North Korea, and then return to Africa where you will continue your quest. Good luck!\n\nAlong the way you may encounter random objects in several countries; they are irrelavant and simply there because they are required in this assignment! :P\n\n";
     
     
     // Runs loop to play game
